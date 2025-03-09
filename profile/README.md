@@ -44,12 +44,12 @@ The following is a list of revisions to ISO/IEC 9899 that the committee has prod
 ||||
 |Convener:	| Robert C. Seacord	| <rcseacord@gmail.com>
 |Secretariat:| 	Daniel Plakosh | <dplakosh@cert.org>
-|Project Editors:	| JeanHeyd Meneide | <wg14@soasis.org>
-|C and C++ Compatibility Study Group Chair:	| Nina Dinka Ranns <dinka.ranns@googlemail.com>
+|Project Editor:	| JeanHeyd Meneide | <wg14@soasis.org>
+|C and C++ Compatibility Study Group Chair:	| Nina Dinka Ranns  |  <dinka.ranns@googlemail.com>
 |Floating-Point Study Group Chair: | 	Jim Thomas | <jaswthomas@sbcglobal.net>
-|Memory Object Model Study Group Chair: | Freek Wiedijk <freek@cs.ru.nl>
-|Memory Safety Study Group Chair: | Martin Uecker <ma.uecker@gmail.com>
-|Undefined Behavior Study Group Chair: | David Svoboda <svoboda@cert.org>
+|Memory Object Model Study Group Chair: | Freek Wiedijk | <freek@cs.ru.nl>
+|Memory Safety Study Group Chair: | Martin Uecker  |  <ma.uecker@gmail.com>
+|Undefined Behavior Study Group Chair: | David Svoboda  |  <svoboda@cert.org>
 |Email & Website:	| Keld Simonsen | <keld@rap.dk>
 
 ## The C Logo
