@@ -42,33 +42,33 @@ The following is a list of revisions to ISO/IEC 9899 that the committee has prod
 |**Position**|**Contact**|Email|
 |:-:|-|-|
 ||||
-|Convener:	| Robert C. Seacord	|  <rcseacord@gmail.com>
+|Convener:	| Robert C. Seacord	| <rcseacord@gmail.com>
 |Secretariat:| 	Daniel Plakosh | <dplakosh@cert.org>
 |Project Editors:	| JeanHeyd Meneide | <wg14@soasis.org>
-|C and C++ Compatibility Study Group Chair:	| JeanHeyd Meneide <compatibility.sg.chair@gmail.com> or <wg14@soasis.org>
+|C and C++ Compatibility Study Group Chair:	| Nina Dinka Ranns <dinka.ranns@googlemail.com>
 |Floating-Point Study Group Chair: | 	Jim Thomas | <jaswthomas@sbcglobal.net>
-|Memory Object Model Study Group Chair: | Peter Sewell <peter.sewell@cl.cam.ac.uk>
-|Undefined Behavior Study Group Chair: | 	David Svoboda <svoboda@cert.org>
+|Memory Object Model Study Group Chair: | Freek Wiedijk <freek@cs.ru.nl>
+|Memory Safety Study Group Chair: | Martin Uecker <ma.uecker@gmail.com>
+|Undefined Behavior Study Group Chair: | David Svoboda <svoboda@cert.org>
 |Email & Website:	| Keld Simonsen | <keld@rap.dk>
 
 ## The C Logo
 
 Traditionally, the logo of C language is uppercase letter ’C’ in font Helvetica Black,
 first used on the cover1 of the book The C Programming Language (K&R).
-Usually colored in shades of blue and grey like Hit Grey , Cadet Grey , or LightSteelBlue .
-SVG file2 uploaded to Wikimedia Commons for public domain by Cobaiahackers on 2023-01-12 [4]
+Usually colored in shades of blue and grey like Hit Grey , Cadet Grey , or LightSteelBlue.
+[SVG file](https://commons.wikimedia.org/w/index.php?title=File:The_C_Programming_Language_logo.svg&oldid=724712962) uploaded to Wikimedia Commons for public domain by Cobaiahackers on 2023-01-12.
 Beside the traditional logo, various other stylizations of letter C can be found.
-Most noticeable example is a derivative of C++ logo with ”++” removed, and sometimes with blue colors
+Most noticeable example is a derivative of C++ logo with "++" removed, and sometimes with blue colors
 either lightened, darkened, or shifted towards violet spectrum.
 While some may prefer it to the traditional one, its usage is not recommended.
-Even if C was lacking an established logo, and acquired permission [7] from Standard C++ Foundation
+Even if C was lacking an established logo, and [acquired permission](https://isocpp.org/home/terms-of-use) from Standard C++ Foundation
 to use one based on their design, the author(s) of the derivative work are not know.
-Another issue rises from existence of similar fan-made creations for different languages4
-that are not affiliated with each other, nor have particularly much in common beside taking inspiration from C and
-C++, the strongest being the name.
+Another issue rises from existence of similar fan-made creations for different languages that are not affiliated with each other,
+nor have particularly much in common beside taking inspiration from C and C++, the strongest being the name.
 
-while the letter ’C’ alone is within public domain [5], the full cover graphic might meet threshold of originality for copyright
-protection; in either case, the stylized letter is plenty sufficient, and full cover would be ”noisy” and harder to fit into iconography
+while the letter 'C' alone is within [public domain](https://commons.wikimedia.org/w/index.php?title=File:The_C_Programming_Language_logo.svg&oldid=968318500), the full cover graphic might meet threshold of originality for copyright
+protection; in either case, the stylized letter is plenty sufficient, and full cover would be "noisy" and harder to fit into iconography
 copy of the file attached to this PDF document as nota bene, established before C++ (C with Classes) was even conceived, let alone its logo
 like for C-- or C# (although the latter sometimes has wandered into official communication)
 
@@ -79,24 +79,17 @@ The following books are written by current members of the C Standards Committee:
 
 <img src="https://github.com/user-attachments/assets/8e6418ce-7544-4e42-80cb-03441392bea2" alt="drawing" width="200"/> 
 
-*Effective C, 2nd Edition*
-
-An Introduction to Professional C Programming
-
-by [Robert C. Seacord](https://en.wikipedia.org/wiki/Robert_C._Seacord)
-
-September 2024, 312 pp.
-
+*Effective C, 2nd Edition*<br>
+An Introduction to Professional C Programming<br>
+by [Robert C. Seacord](https://en.wikipedia.org/wiki/Robert_C._Seacord)<br>
+September 2024, 312 pp.<br>
 ISBN-13: 9781718504127
+Available translations: Polish, Russian
 
 <img src="https://github.com/user-attachments/assets/8fb00c0b-65fb-4d98-b5c5-c48a61e2b7b4" alt="drawing" width="200"/> 
 
-*Modern C*
-
-Jens Gustedt
-
-November 2019  ISBN 9781617295812  408 pages
-
-printed in black & white
-
+*Modern C*<br>
+Jens Gustedt<br>
+November 2019  ISBN 9781617295812  408 pages<br>
+printed in black & white<br>
 Available translations: Complex Chinese, Korean, Simplified Chinese
