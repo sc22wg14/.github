@@ -48,7 +48,7 @@ The following is a list of revisions to ISO/IEC 9899 that the committee has prod
 |C and C++ Compatibility Study Group Chair:	| Nina Dinka Ranns  |  <dinka.ranns@googlemail.com>
 |Floating-Point Study Group Chair: | 	Jim Thomas | <jaswthomas@sbcglobal.net>
 |Memory Object Model Study Group Chair: | Freek Wiedijk | <freek@cs.ru.nl>
-|Memory Safety Study Group Chair: | Martin Uecker  |  <ma.uecker@gmail.com>
+|Memory Safety Study Group Chair: | Martin Uecker  |  <uecker@tugraz.at>
 |Undefined Behavior Study Group Chair: | David Svoboda  |  <svoboda@cert.org>
 |Email & Website:	| Keld Simonsen | <keld@rap.dk>
 
