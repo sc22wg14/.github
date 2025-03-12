@@ -12,7 +12,7 @@ Points of interest:
   * [tools list](https://www.c-language.org/tools)
   * [FAQ](https://www.c-language.org/faq)
 
-## Standard Revisions
+## Standard revisions
 
 For up to date information of revisions of the Standard visit:
 * [C committee's website](https://www.open-std.org/jtc1/sc22/wg14/www/projects.html#9899) (includes latest working draft)
