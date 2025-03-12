@@ -26,6 +26,7 @@ For up to date information of revisions of the Standard visit:
 | Convener          | Robert C. Seacord \<rcseacord@gmail.com>
 | Secretariat       | Daniel Plakosh \<dplakosh@cert.org>
 | Project editor    | JeanHeyd Meneide \<wg14@soasis.org>
+||
 | Committee website | Keld Simonsen \<keld@rap.dk>
 | Mailing list      | Keld Simonsen \<keld@rap.dk>
 | C homepage        | \<webmaster@c-language.org>
