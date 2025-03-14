@@ -17,7 +17,7 @@ Points of interest:
 For up to date information of revisions of the Standard visit:
 * [C committee's website](https://www.open-std.org/jtc1/sc22/wg14/www/projects.html#9899) (includes latest working draft)
 * [C language homepage](https://www.c-language.org/)
-  * *revisions* category in [resources](https://www.c-language.org/resources) list additional references and documents
+  * [resources](https://www.c-language.org/resources#revisions) list additional references and documents
 
 ## Contacts
 
