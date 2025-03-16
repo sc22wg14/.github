@@ -32,11 +32,11 @@ For up to date information of revisions of the Standard visit:
 | C homepage        | \<webmaster@c-language.org>
 | GitHub profile    | [@Jorenar](https://github.com/Jorenar)
 ||
-| C and C++ Compatibility SG | Nina Dinka Ranns \<dinka.ranns@googlemail.com>
-| Floating-Point SG          | Jim Thomas \<jaswthomas@sbcglobal.net>
-| Memory Object Model SG     | Freek Wiedijk \<freek@cs.ru.nl>
-| Memory Safety SG           | Martin Uecker \<uecker@tugraz.at>
-| Undefined Behavior SG      | David Svoboda \<svoboda@cert.org>
+| SG: C and C++ Compatibility | Nina Dinka Ranns \<dinka.ranns@googlemail.com>
+| SG: Floating-Point          | Jim Thomas \<jaswthomas@sbcglobal.net>
+| SG: Memory Object Model     | Freek Wiedijk \<freek@cs.ru.nl>
+| SG: Memory Safety           | Martin Uecker \<uecker@tugraz.at>
+| SG: Undefined Behavior      | David Svoboda \<svoboda@cert.org>
 
 
 ## Learning C
